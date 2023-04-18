@@ -3,7 +3,7 @@
 save-file:
 	git add $(file)
 	git commit -m "$(msg)"
-	git push
+	git push  
 # Pour enregistrer les travaux sur ta branche github
 # commande exemple: make msg="add user table" save-all
 # avec msg comme variable str
