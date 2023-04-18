@@ -1,4 +1,4 @@
-# Un Tchatbot utilisant l'API de OpenAI
+# Un Tchatbot utilisant l'API de OpenAI et Gradio en interface front
 ## Installation des librairies
 ### pip install gradio openai pyttsx3 python-dotenv
 
